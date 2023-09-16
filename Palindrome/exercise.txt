@@ -1,0 +1,3 @@
+A palindrome is a word, sentence, verse, or even number that reads the same backward or forward.
+
+Example: 1221, racecar, 24542
