@@ -1,0 +1,1 @@
+A strong number is a number where the sum of the factorials of its digits equals the original number.
